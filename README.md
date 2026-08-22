@@ -6,45 +6,21 @@
 
 I'm an **Electronics & Telecommunication Engineer** focused on **Embedded Software & Firmware Development**.
 
-Currently learning and building with **C, C++, Data Structures & Algorithms, Embedded C, ARM, STM32, Microcontrollers and Firmware Development**.
+Currently learning and building with **C, C++, DSA, Embedded C, ARM, STM32, Microcontrollers and Firmware Development**.
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages**
-
-* C
-* C++
-* Embedded C
-
-**Data Structures & Algorithms**
-
-* Arrays
-* Strings
-* Linked Lists
-* Stacks & Queues
-* Trees
-* Searching & Sorting
-* Problem Solving
-
-**Embedded Systems**
-
-* ARM Cortex-M
-* STM32
-* GPIO
-* Timers & PWM
-* ADC
-* UART / SPI / I2C
-* Interrupts
-* Peripheral Interfacing
-
-**Tools**
-
-* Git & GitHub
-* Linux
-* VS Code
-* STM32 Development Tools
+| **Programming** | **Embedded Systems** | **Tools & Software** |
+| --------------- | -------------------- | -------------------- |
+| C               | ARM Cortex-M         | Git                  |
+| C++             | STM32                | GitHub               |
+| Embedded C      | GPIO                 | Linux                |
+| DSA             | Timers & PWM         | VS Code              |
+| Data Structures | ADC                  | STM32CubeIDE         |
+| Algorithms      | UART / SPI / I2C     | Proteus              |
+| Problem Solving | Interrupts           | MATLAB               |
 
 ---
 
@@ -52,7 +28,7 @@ Currently learning and building with **C, C++, Data Structures & Algorithms, Emb
 
 ### 📇 Address Book — C
 
-A console-based C application built to strengthen:
+Console-based C application built using:
 
 `C • Pointers • Structures • Arrays • Functions • File Handling • Searching • Validation`
 
