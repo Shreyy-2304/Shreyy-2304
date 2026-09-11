@@ -24,20 +24,6 @@ Currently learning and building with **C, C++, DSA, Embedded C, ARM, STM32, Micr
 
 ---
 
-## 🚀 Projects
-
-### 📇 Address Book — C
-
-Console-based C application built using:
-
-`C • Pointers • Structures • Arrays • Functions • File Handling • Searching • Validation`
-
-### 🔬 Embedded Projects
-
-Building projects around **STM32, Embedded C, peripherals and firmware development**.
-
----
-
 ## 🌱 Currently Learning
 
 ```text
